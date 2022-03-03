@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C0R33
-- 👀 I’m interested in playing compter games and basketball also watching anime.
-- 🌱 I’m currently learning GO, Python and Java.
+- 👀 I’m interested in playing computer games and basketball also watching anime.
+- 🌱 I’m currently learning GO, Python and Java. Also practicing on C#.
 
 ### Connect with me:
 
