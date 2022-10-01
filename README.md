@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @C0R33
 - 👀 I’m interested in playing computer games and basketball also watching anime.
-- 🌱 I’m currently learning GO, Python and Java. Also practicing on C#.
+- 🌱 I’m currently learining and working on DiscordJS.
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC4KLY9lO5R-VZa7t_x6Uf9g#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC4KLY9lO5R-VZa7t_x6Uf9g#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC0RPsRNpqYZymZzldzkK2QQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC0RPsRNpqYZymZzldzkK2QQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/reallcore#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/reallcore#gh-dark-mode-only)
