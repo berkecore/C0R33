@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @C0R33
-- 👀 I’m interested in playing computer games and basketball also watching anime.
-- 🌱 I’m currently learining and working on DiscordJS.
+- 👋 Hi, I’m @brcoree
+- 👀 I’m interested in playing computer games and C#.
+- 🌱 I’m currently learining and working on C++ and JS.
 
 ### Connect with me:
 
